@@ -1,0 +1,130 @@
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.exe.config
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.exe
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.pdb
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.AssemblyReference.cache
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.SuggestedBindingRedirects.cache
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Properties.Resources.resources
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.GenerateResource.cache
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.CoreCompileInputs.cache
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.exe
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.pdb
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.MainForm.resources
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.ProductView.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.exe.config
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.exe
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.pdb
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.AssemblyReference.cache
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.SuggestedBindingRedirects.cache
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.MainForm.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.ProductView.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Properties.Resources.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.GenerateResource.cache
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.CoreCompileInputs.cache
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.exe
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.pdb
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.ProductAdd.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.ProductEdit.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerView.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerAdd.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerEdit.resources
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.exe.config
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.exe
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.pdb
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.AssemblyReference.cache
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerAdd.resources
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerEdit.resources
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerView.resources
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.MainForm.resources
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.ProductAdd.resources
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.ProductEdit.resources
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.ProductView.resources
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Properties.Resources.resources
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.GenerateResource.cache
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.exe
+C:\Users\Pavel Islam PC\Desktop\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.pdb
+C:\Users\LAB102-03\Desktop\New folder (3)\OrderManagement_Solution\OrderManagement\bin\Debug\Computerdb.mdf
+C:\Users\LAB102-03\Desktop\New folder (3)\OrderManagement_Solution\OrderManagement\bin\Debug\Computerdb_log.ldf
+C:\Users\LAB102-03\Desktop\New folder (3)\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.exe.config
+C:\Users\LAB102-03\Desktop\New folder (3)\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.exe
+C:\Users\LAB102-03\Desktop\New folder (3)\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.pdb
+C:\Users\LAB102-03\Desktop\New folder (3)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.AssemblyReference.cache
+C:\Users\LAB102-03\Desktop\New folder (3)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\LAB102-03\Desktop\New folder (3)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerAdd.resources
+C:\Users\LAB102-03\Desktop\New folder (3)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerEdit.resources
+C:\Users\LAB102-03\Desktop\New folder (3)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerView.resources
+C:\Users\LAB102-03\Desktop\New folder (3)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.MainForm.resources
+C:\Users\LAB102-03\Desktop\New folder (3)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Properties.Resources.resources
+C:\Users\LAB102-03\Desktop\New folder (3)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.GenerateResource.cache
+C:\Users\LAB102-03\Desktop\New folder (3)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\LAB102-03\Desktop\New folder (3)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.exe
+C:\Users\LAB102-03\Desktop\New folder (3)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.pdb
+C:\Users\LAB102-03\Desktop\New folder (3)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.computerAdd.resources
+C:\Users\LAB102-03\Desktop\New folder (3)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.computerEdit.resources
+C:\Users\LAB102-03\Desktop\New folder (3)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.computerView.resources
+C:\Users\LAB102-03\Desktop\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\Computerdb.mdf
+C:\Users\LAB102-03\Desktop\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\Computerdb_log.ldf
+C:\Users\LAB102-03\Desktop\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.exe.config
+C:\Users\LAB102-03\Desktop\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.exe
+C:\Users\LAB102-03\Desktop\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.pdb
+C:\Users\LAB102-03\Desktop\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.AssemblyReference.cache
+C:\Users\LAB102-03\Desktop\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\LAB102-03\Desktop\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerAdd.resources
+C:\Users\LAB102-03\Desktop\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerEdit.resources
+C:\Users\LAB102-03\Desktop\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerView.resources
+C:\Users\LAB102-03\Desktop\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.MainForm.resources
+C:\Users\LAB102-03\Desktop\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.computerAdd.resources
+C:\Users\LAB102-03\Desktop\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.computerEdit.resources
+C:\Users\LAB102-03\Desktop\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.computerView.resources
+C:\Users\LAB102-03\Desktop\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Properties.Resources.resources
+C:\Users\LAB102-03\Desktop\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.GenerateResource.cache
+C:\Users\LAB102-03\Desktop\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\LAB102-03\Desktop\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.exe
+C:\Users\LAB102-03\Desktop\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.pdb
+C:\Users\LAB102-03\Desktop\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Order.OrderAdd.resources
+C:\Users\LAB102-03\Desktop\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Order.OrderItemAdd.resources
+C:\Users\LAB102-03\Desktop\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Order.OrderView.resources
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\Computerdb.mdf
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\Computerdb_log.ldf
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.exe.config
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.exe
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.pdb
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.AssemblyReference.cache
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.SuggestedBindingRedirects.cache
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerAdd.resources
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerEdit.resources
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerView.resources
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.MainForm.resources
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.computerAdd.resources
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.computerEdit.resources
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.computerView.resources
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Order.OrderAdd.resources
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Order.OrderItemAdd.resources
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Order.OrderView.resources
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Properties.Resources.resources
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.GenerateResource.cache
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.CoreCompileInputs.cache
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.exe
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.pdb
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.Shared.dll
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\bin\Debug\stdole.dll
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Reports.FormRpt1.resources
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.CopyComplete
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.FormRpt2.resources
+D:\R52\M5\Projects\1270466-05(JUI)\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Reports.FormRpt3.resources
